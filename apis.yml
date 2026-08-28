@@ -11,6 +11,17 @@ description: >-
   a network of 155+ certified service partners across 25+ countries. B2X serves mobile and
   consumer electronics, retail automation, B2B/enterprise and mission-critical segments.
   As of this profile, B2X does not publish a public API, developer portal, or SDKs.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
