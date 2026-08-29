@@ -35,6 +35,9 @@ accessModel:
   method: derived
 image: https://www.b2x.com/hubfs/B2X%20Logo%20320x320-4.png
 url: https://raw.githubusercontent.com/api-evangelist/b2x/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "As of this profile, B2X does not publish a public API, developer portal, or SDKs."
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
